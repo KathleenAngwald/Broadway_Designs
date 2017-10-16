@@ -1,3 +1,6 @@
+body{text-align: center;
+font-family: helvetica;
+}
 .header{
   background-image: url("../../Resources/Site Images/the-flatiron-building.png");
 
